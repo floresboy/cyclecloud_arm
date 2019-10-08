@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "username": {
-      "value": ""
+      "value": "kamiel"
     },
     "SSH Public Key": {
       "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDYFPYEqi/L7OBZEhTnMyI1yT3S1mBJWyUMeURpqpup6jXRnS4IQyPx/unuYmi1E2rmkzVGSzHRoj9Uq4ikVYMmBa79ZVPhjjXpEdpBPXuo65xXtRx3H04tKODQ4tEAdj8Cz4JdYcwsWAO6X8iqK0iW/moLGkXgCM3YHaO8dqXlN+DhR6cDEFIcG5BbeWhQyqT6IbxRtKEDiagcTZ0qzR+sAJ49rZF0DP8X+U0R+mzhi+rr5M6hjQZfEuOvTq9B3pQzSeJd9O+u3jCN5OBIsc3WkuJOpuvbVrY5Y2Tmt+zEBZNsS9P9L3a8uhSPqT3G22ToALRAUPBsQ3LhZ5C7mN9Om2d3mguv0nLVq9c/j+mSpuvEPsePkPJ1MM/hBJyj7QdtrBBb5j2VpFtlKQnwQmAk6oySxQbI3WH6M7Wrsw4cQ4e7BBEDcldP/fETglNSqxY+S5KROz3G2heFKIBFQKmRJ0AKp7FdWmtCDVoT3WPkrr78ToLarNgTMwdDZBBJYmRn7nHPlJtEPLbilZnNSb6flv3rXoS+tn3qjIClD6K6rGFn55xjpuLESL8YXm7sPzfbg/jT+b1qhkMp8xW2gFVavT9PFQRbPsP8s/GcfnDgafQK9Q4UTQbZZfHC0MywdJN6BHdcz0GHU/V8xqJq56uKb1+a1iLFJgxp9v9ROgI/4w== "
